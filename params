@@ -1,4 +1,5 @@
 {
-  "PORT":41412,
+  "port": 41412,
+  "protocol": 70012,
   "addresses": []
 }
